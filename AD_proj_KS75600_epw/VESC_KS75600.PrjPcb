@@ -49,13 +49,30 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=VESC_KS75600_ana_con.SchDoc
+DocumentPath=封装库.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BANBDJMM
+
+[Document2]
+DocumentPath=VESC_KS75600_ana_con.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -65,14 +82,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WXRVOITY
 
-[Document2]
+[Document3]
 DocumentPath=VESC_KS75600_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -82,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOOLLCIM
 
-[Document3]
+[Document4]
 DocumentPath=VESC_KS75600.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,14 +116,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STNWXGMK
 
-[Document4]
+[Document5]
 DocumentPath=VESC_KS75600_motor_mcu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YTCYPPSY
 
-[Document5]
+[Document6]
 DocumentPath=VESC_KS75600.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,14 +150,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKTIXTNV
 
-[Document6]
+[Document7]
 DocumentPath=VESC_KS75600_mos_driver_conn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FECCXGQQ
 
-[Document7]
+[Document8]
 DocumentPath=VESC_KS75600.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
